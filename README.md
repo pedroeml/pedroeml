@@ -4,7 +4,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-elpidio-melha-lemos/)](https://www.linkedin.com/in/pedro-elpidio-melha-lemos/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedroemlemos@gmail.com)](mailto:pedroemlemos@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:pedroeml@outlook.com)
-[![HitCount](http://hits.dwyl.com/pedroeml/pedroeml.svg)](http://hits.dwyl.com/pedroeml/pedroeml)
 
 ## Programming Languages
 
