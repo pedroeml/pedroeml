@@ -54,8 +54,6 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Interesting stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroeml&layout=compact)
-
 ![Pedro's stats](https://github-readme-stats.vercel.app/api?username=pedroeml&show_icons=true)
 
 ⭐️ From [pedroeml](https://github.com/pedroeml)
